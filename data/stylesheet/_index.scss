@@ -26,12 +26,12 @@ roundy-label:hover:selected {
         }
     }
 
-    &.green .value {
-        background-color: rgba($LIME_300, 0.6);
-    }
-
     &.blue .value {
         background-color: rgba($BLUEBERRY_300, 0.6);
+    }
+
+    &.pink .value {
+        background-color: rgba($BUBBLEGUM_300, 0.6);
     }
 
     &.username {
